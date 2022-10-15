@@ -11,7 +11,7 @@ public class StaticVariableEx {
 
         }
         static{
-            System.out.println("runing static block");
+            System.out.println("running static block");
             y=x+6;
 
         }
