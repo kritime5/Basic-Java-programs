@@ -12,7 +12,8 @@ public class SumCl {
                     sum = sum + Integer.parseInt(values[i]);
                 }catch (NumberFormatException e){
                     System.out.println("Invalid integer command line arguments:"+e.toString())
-                    ;}
+                    ;
+                }
 
             }
             System.out.println("Sum:+sum");

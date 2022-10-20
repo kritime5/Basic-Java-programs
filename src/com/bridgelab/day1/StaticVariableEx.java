@@ -16,6 +16,7 @@ public class StaticVariableEx {
 
         }
         public static void main(String args[]){
+
             func(8);
         }
 
